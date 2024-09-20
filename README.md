@@ -16,7 +16,7 @@ This DALL-E clone is an AI-powered image generation app that uses advanced model
 
 ## Website
 
-[ImagiGen AI](https://movies-app-zeta-fawn.vercel.app/)
+[ImagiGen AI](https://darling-sunburst-a52107.netlify.app/)
 
 ## Features
 
